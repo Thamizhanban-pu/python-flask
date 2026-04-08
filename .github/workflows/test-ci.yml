@@ -1,9 +1,7 @@
 name: Test Branch CI
 
 on:
-  push:
-    branches:
-      - test
+  workflow_dispatch:
 
 jobs:
   build:
