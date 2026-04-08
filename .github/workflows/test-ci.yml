@@ -1,4 +1,4 @@
-name: Test Branch CI
+name: test-ci
 
 on:
   workflow_dispatch:
